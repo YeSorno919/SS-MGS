@@ -1,0 +1,9 @@
+tqdm
+matplotlib
+pillow
+opencv-python
+pandas
+scipy
+openpyxl
+antspyx
+tensorboard
