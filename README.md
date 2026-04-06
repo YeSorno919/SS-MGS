@@ -1,7 +1,8 @@
 # ⭐Semi-supervised Infrared Meibomian Gland Segmentation with Intra-patient Registration and Feature Supervision
 
 This is the code for the paper "Semi-supervised Infrared Meibomian Gland Segmentation with Intra-patient Registration and Feature Supervision", which has been submitted to ICIP 2025.
-You can access this paper via the following URL.https://ieeexplore.ieee.org/document/11084345
+You can access this paper via the following URL. 
+https://ieeexplore.ieee.org/document/11084345
 
 ## 💡 Introduction
  
