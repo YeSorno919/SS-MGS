@@ -84,6 +84,16 @@ Run the `5fold_Test_Reg_or_Seg.py`, test the segmentation model trained above. C
 If you find this repository helpful, please consider citing our paper.
 
 ```
-None
+@INPROCEEDINGS{11084345,
+  author={Huang, Yushun and Lai, Kunfeng and Lai, Taichen and Lin, Jiawen and Li, Li},
+  booktitle={2025 IEEE International Conference on Image Processing (ICIP)}, 
+  title={Semi-Supervised Infrared Meibomian Gland Segmentation with Intra-Patient Registration and Feature Supervision}, 
+  year={2025},
+  volume={},
+  number={},
+  pages={121-126},
+  keywords={Image segmentation;Image registration;Image resolution;Filtering;Glands;Contrastive learning;Semisupervised learning;Reliability;Monitoring;Diseases;Meibomian Gland Segmentation;Semi-supervised Learning;Intra-patient;Image Registration;Contrastive Learning},
+  doi={10.1109/ICIP55913.2025.11084345}}
+
 ```
 
